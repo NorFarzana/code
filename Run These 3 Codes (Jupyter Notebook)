@@ -1,0 +1,6 @@
+# I am using Jupyter Notebook to run the SQL code
+# First thing is need to run these 3 codes:
+# !pip install ipython-sql
+# %load_ext sql
+# %sql sqlite:///northwind.db
+
